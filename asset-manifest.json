@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flixtube/static/css/main.75ed4b51.css",
-    "main.js": "/flixtube/static/js/main.e57b164f.js",
+    "main.css": "/flixtube/static/css/main.3e7e8e4c.css",
+    "main.js": "/flixtube/static/js/main.668fb986.js",
     "static/media/yt-logo-mobile.png": "/flixtube/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
     "static/media/yt-logo.png": "/flixtube/static/media/yt-logo.d6505fbc930734374cea.png",
     "index.html": "/flixtube/index.html",
-    "main.75ed4b51.css.map": "/flixtube/static/css/main.75ed4b51.css.map",
-    "main.e57b164f.js.map": "/flixtube/static/js/main.e57b164f.js.map"
+    "main.3e7e8e4c.css.map": "/flixtube/static/css/main.3e7e8e4c.css.map",
+    "main.668fb986.js.map": "/flixtube/static/js/main.668fb986.js.map"
   },
   "entrypoints": [
-    "static/css/main.75ed4b51.css",
-    "static/js/main.e57b164f.js"
+    "static/css/main.3e7e8e4c.css",
+    "static/js/main.668fb986.js"
   ]
 }
